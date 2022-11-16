@@ -63,7 +63,7 @@ const Contact = () => {
       <p>tot sila te penetrace.</p>
       <p>At Frndu v cizine muzes navstivit kdy se ti bude chtit</p>
       <p>a vsechno bezglutenove jidlo na svete jist.</p>
-      <p>🍰🎂🍹</p>
+      <p>🍰 🎂 🍹</p>
     </PoemStyled>
     </>
   )
