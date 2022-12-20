@@ -11,6 +11,7 @@ const Nav = () => {
       <h1>HAPPY BIRTHDAY</h1><ul>
       <NavLink to="/contact"><li>B-day poem</li></NavLink> {/* this link allows me to jump into the component by following to= in this case to about, Navlink means I can style it */}
       <NavLink to="/lastpage"><li>B-day girl picture</li></NavLink> {/* this link allows me to jump into the component by following to= in this case to contact, Navlink means I can style it */}
+      <NavLink to="/maplocation"><li>Map location</li></NavLink> 
     </ul>
     </Navbar>
     <UnicornStyled />
